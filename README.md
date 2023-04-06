@@ -1,7 +1,7 @@
 # SCB-dataset
 Student Classroom Behavior dataset 
 
-We will publish the dataset and source code as soon as possible
+Our paper has been released at: https://arxiv.org/pdf/2304.02488.pdf
 
 We exposed the dataset in stages, and here is the completed dataset：
 
