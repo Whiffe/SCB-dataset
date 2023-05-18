@@ -1,6 +1,11 @@
 # SCB-dataset
 Student Classroom Behavior dataset 
 
+| Paper Name      | Paper Link |
+| ----------- | ----------- |
+| SCB-dataset: A Dataset for Detecting Student Classroom Behavior | https://arxiv.org/pdf/2304.02488.pdf |
+| ...   | ...        |
+
 Our paper has been released at: https://arxiv.org/pdf/2304.02488.pdf
 
 We exposed the dataset in stages, and here is the completed dataset：
