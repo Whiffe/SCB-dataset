@@ -13,3 +13,6 @@ Link: https://pan.baidu.com/s/1y3lGEYd-I-jxZKyAyw4MPw?pwd=zdbg extraction code: 
 Our training weights and training related files download links are as follows: 
 
 Link: https://pan.baidu.com/s/1l2K66u0c0AAAu3NYMrhRpg?pwd=aq7v extraction code: aq7v
+
+# Behavior Detection Network
+paper: https://arxiv.org/pdf/2305.07825.pdf
