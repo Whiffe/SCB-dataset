@@ -467,18 +467,14 @@ class ComputeLoss:
                 pbox = torch.cat((pxy, pwh), 1)  # predicted box
                 iou = bbox_iou(pbox.T, tbox[i], x1y1x2y2=False, CIoU=True)  # iou(prediction, target)
                 # lbox += (1.0 - iou).mean()  # iou loss
-
                 if type(iou) is tuple:
-                    if len(iou) == 2:
-                        lbox += (iou[1].detach() * (1 - iou[0])).mean()
-                        iou = iou[0]
-                    else:
-                        lbox += (iou[0] * iou[1]).mean()
-                        iou = iou[-1]
+                    lbox += (iou[1].detach() * (1 - iou[0])).mean()
+                    iou = iou[0]
                 else:
                     lbox += (1.0 - iou).mean()  # iou loss
-                
-                 # Objectness
+
+
+                # Objectness
                 tobj[b, a, gj, gi] = (1.0 - self.gr) + self.gr * iou.detach().clamp(0).type(tobj.dtype)  # iou ratio
 
                 # Classification
@@ -613,16 +609,11 @@ class ComputeLossOTA:
                 pbox = torch.cat((pxy, pwh), 1)  # predicted box
                 selected_tbox = targets[i][:, 2:6] * pre_gen_gains[i]
                 selected_tbox[:, :2] -= grid
-                # iou = bbox_iou(pbox.T, selected_tbox, x1y1x2y2=False, CIoU=True)  # iou(prediction, target)
-                iou = bbox_iou(pbox.T, selected_tbox, x1y1x2y2=False, WIoU=True, scale=True)  # iou(prediction, target)
+                iou = bbox_iou(pbox.T, selected_tbox, x1y1x2y2=False, CIoU=True)  # iou(prediction, target)
                 # lbox += (1.0 - iou).mean()  # iou loss
                 if type(iou) is tuple:
-                    if len(iou) == 2:
-                        lbox += (iou[1].detach() * (1 - iou[0])).mean()
-                        iou = iou[0]
-                    else:
-                        lbox += (iou[0] * iou[1]).mean()
-                        iou = iou[-1]
+                    lbox += (iou[1].detach() * (1 - iou[0])).mean()
+                    iou = iou[0]
                 else:
                     lbox += (1.0 - iou).mean()  # iou loss
 
