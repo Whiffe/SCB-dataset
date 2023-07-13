@@ -110,7 +110,7 @@ def get_params():
     params = {
         'weight': 'yolov7_training.pt',
         'cfg': 'cfg/training/yolov7.yaml',
-        'device': 'cuda:0',
+        'device': 'cuda:0', # cpu
         'method': 'GradCAM', # GradCAMPlusPlus, GradCAM, XGradCAM
         'layer': 'model.model[-2]',
         'backward_type': 'class', # class or conf
