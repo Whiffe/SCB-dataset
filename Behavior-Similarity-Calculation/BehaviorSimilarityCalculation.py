@@ -1,5 +1,18 @@
+# python BehaviorSimilarityCalculation.py --labels_path ./5k_HRW_labels
 import os
+import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--labels_path', default='./5k_HRW_labels',type=str)
+
+'''
+--labels_path yolov7的检测结果的txt路径
+'''
+
+
+arg = parser.parse_args()
+
+labels_path = arg.labels_path
 
 def compute_iou(rec1, rec2):
     """
@@ -85,7 +98,7 @@ def find_matching_rows(arr):
     return count_category, count_overlap
 all_count_category = {}
 all_count_overlap = {}
-for root, dirs, files in os.walk("./5k_HRW_labels", topdown=False):
+for root, dirs, files in os.walk(labels_path, topdown=False):
      for name in files:
         if "checkpoint" not in name and ".txt" in name :
             HRW_Data = [] 
