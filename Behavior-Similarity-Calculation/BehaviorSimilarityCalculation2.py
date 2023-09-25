@@ -1,4 +1,4 @@
-# python BehaviorSimilarityCalculation.py --labels_path ./5k_HRW_labels
+# python BehaviorSimilarityCalculation2.py --labels_path ./5k_HRW_labels
 import os
 import argparse
 
