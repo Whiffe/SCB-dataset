@@ -10,16 +10,3 @@ Student Classroom Behavior dataset
 | ...   | ...        |...        |...        |
 
 
-# Behavior Detection Network
-
-Student Classroom Behavior Detection based on YOLOv7-BRA and Multi-Model Fusion
-
-paper: [https://arxiv.org/pdf/2305.07825.pdf](https://arxiv.org/pdf/2305.07825.pdf)
-
-Student Classroom Behavior Detection based on Improved YOLOv7
-
-paper: [https://arxiv.org/pdf/2306.03318.pdf](https://arxiv.org/pdf/2306.03318.pdf)
-
-
-
-
