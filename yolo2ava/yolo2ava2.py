@@ -1,4 +1,4 @@
-# python yolo2ava.py --yolo_path /root/5k_HRW_yolo_Dataset --ava_path /root/autodl-tmp/SCB-ava-Dataset4
+# python yolo2ava2.py --yolo_path /root/5k_HRW_yolo_Dataset --ava_path /root/autodl-tmp/SCB-ava-Dataset4
 import os
 import csv
 import shutil
@@ -270,7 +270,7 @@ if __name__ == "__main__":
                 txt_path = os.path.join(root, name)
                 key_name =  name.split('.')[0]
                 img_path = txt_path.replace("labels", "images");
-                img_path = img_path.replace("txt", "png")
+                img_path = img_path.replace("txt", "jpg")
                 if not os.path.exists(img_path):
                     continue
                 
@@ -293,8 +293,8 @@ if __name__ == "__main__":
                 
                 for i in range(4*30+31):
                     
-                    name_id_xyxy_action_pid = [key_name, video_id , i, os.path.join(key_name,key_name+"_"+str(i+1).zfill(6)+".png"),  f'“”']
-                    shutil.copyfile(img_path, os.path.join(ava_path,'./frames/',key_name,key_name+"_"+str(i+1).zfill(6)+".png"))
+                    name_id_xyxy_action_pid = [key_name, video_id , i, os.path.join(key_name,key_name+"_"+str(i+1).zfill(6)+".jpg"),  f'“”']
+                    shutil.copyfile(img_path, os.path.join(ava_path,'./frames/',key_name,key_name+"_"+str(i+1).zfill(6)+".jpg"))
                     
                     if 'train' in txt_path:
                         SCB_frame_train_writer.writerow(name_id_xyxy_action_pid)
