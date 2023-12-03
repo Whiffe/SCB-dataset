@@ -14,3 +14,10 @@ If you encounter any issues with the SCB Dataset, please feel free to contact me
 
 # News
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
+
+# YOLO + CrowdHuman
+
+YOLOv5 crowdhuman_vbody_yolov5m：
+[https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing)
+
+YOLOv7 ：[https://drive.google.com/drive/folders/1FYd8xiQvmTfKcpgl_2fedawuor61snjo?usp=sharing](https://drive.google.com/drive/folders/1FYd8xiQvmTfKcpgl_2fedawuor61snjo?usp=sharing)
