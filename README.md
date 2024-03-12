@@ -10,7 +10,7 @@ Student Classroom Behavior dataset
 | ...   | ...        |...        |...        |
 
 # Contact
-If you encounter any issues with the SCB Dataset, please feel free to contact me via email at : winstonyf@qq.com
+If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
 # News
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
