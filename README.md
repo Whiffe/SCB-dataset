@@ -19,7 +19,7 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 
 | model | Trained weights Link |
 | :----: | :----: |
-| YOLOv5 crowdhuman_vbody_yolov5m   | [google drive YOLOv5 crowdhuman_vbody_yolov5m](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing)        |
+| YOLOv5 crowdhuman_vbody_yolov5m   | [google drive YOLOv5 crowdhuman_vbody_yolov5m](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing)        |
 | YOLOv7x   | [Baidu Netdisk YOLOv7x CrowdHuman](https://pan.baidu.com/s/1YQZegrdADkiMu17KdSXulQ?pwd=ewop ) extraction code:  ewop   [google drive YOLOv7x CrowdHuman](https://drive.google.com/drive/folders/1FYd8xiQvmTfKcpgl_2fedawuor61snjo?usp=sharing)    |
 | ...   | ...        |
 | ...   | ...        |
