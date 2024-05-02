@@ -10,7 +10,7 @@ Student Classroom Behavior dataset
 | ...   | ...        |...        |...        |...        |
 
 # STBD-08
-Thanks to the CBPH-Net (https://github.com/icedle/CBPH-Net)[https://github.com/icedle/CBPH-Net] authors for their contributions, here is the download link for the CBPH-Net contribution dataset STBD-08:
+Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/icedle/CBPH-Net) authors for their contributions, here is the download link for the CBPH-Net contribution dataset STBD-08:
 
 | Paper Name | Paper Link | Dataset Link |
 | :----: | :----: | :----: | 
