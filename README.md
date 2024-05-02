@@ -9,6 +9,13 @@ Student Classroom Behavior dataset
 | SCB-ST-Dataset4 <br/> Extending the Spatio-Temporal Behavior Dataset in Student Classroom Scenarios Through Image Dataset Method   | [SCB-ST-Dataset4 paper](https://arxiv.org/pdf/2310.16267.pdf)    | Using [yolo2ava] to generate      |...        | hand-raising, reading, writing |
 | ...   | ...        |...        |...        |...        |
 
+# STBD-08
+Thanks to the CBPH-Net (https://github.com/icedle/CBPH-Net)[https://github.com/icedle/CBPH-Net] authors for their contributions, here is the download link for the CBPH-Net contribution dataset STBD-08:
+
+| Paper Name | Paper Link | Dataset Link |
+| :----: | :----: | :----: | 
+| CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
+
 # Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
