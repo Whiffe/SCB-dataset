@@ -16,6 +16,15 @@ Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/i
 | :----: | :----: | :----: | 
 | CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 or https://docs.qq.com/pdf/DWFpWbWhnaHpaRm9x | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
 
+# A dataset of student classroom behavior from a paid website
+
+This dataset is highly similar to STBD-08, mainly in that the images are highly similar and the quality of annotations is also poor
+
+| The original website | Resource link (including dataset) |
+| :----: | :----: | 
+| [https://mbd.pub/o/bread/ZZiTl5lw](https://mbd.pub/o/bread/ZZiTl5lw) | [Baidu Netdisk dataset](https://pan.baidu.com/s/1ZX_ZpLl-D-EsGlNpEqwTPg?pwd=fwie) extraction code: fwie | 
+
+
 # Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
