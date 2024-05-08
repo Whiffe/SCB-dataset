@@ -14,7 +14,7 @@ Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/i
 
 | Paper Name | Paper Link | Dataset Link |
 | :----: | :----: | :----: | 
-| CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
+| CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 or https://docs.qq.com/pdf/DWFpWbWhnaHpaRm9x | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
 
 # Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
