@@ -16,6 +16,8 @@ Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/i
 | :----: | :----: | :----: | 
 | CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 or https://docs.qq.com/pdf/DWFpWbWhnaHpaRm9x | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
 
+However, when we cleaned the STBD-08, we found that there were still many problem data in the STBD-08, such as the non-standard bbox, and some class labeling errors.
+
 # A dataset of student classroom behavior from a paid website
 
 This dataset is highly similar to STBD-08, mainly in that the images are highly similar and the quality of annotations is also poor
