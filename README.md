@@ -36,10 +36,10 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 
 ## Software copyright
 
-登记号: 2023SR0518754 <br>
-软件全称: 基于via的课堂学生行为数据标注与yolov7目标检测系统<br>
-链接：[https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) <br>
-提取码：fixx<br>
+
+Register number: 2023SR0518754 <br>
+Full name of software: 基于via的课堂学生行为数据标注与yolov7目标检测系统<br>
+[Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br>
 
 
 # YOLO + CrowdHuman
