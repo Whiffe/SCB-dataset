@@ -35,11 +35,10 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
 
 ## Software copyright
+| Register number | Full name of software | 基于via的课堂学生行为数据标注与yolov7目标检测系统 |
+| :----: | :----: |  :----: | 
+| 2023SR0518754 | 基于via的课堂学生行为数据标注与yolov7目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br> |
 
-
-Register number: 2023SR0518754 <br>
-Full name of software: 基于via的课堂学生行为数据标注与yolov7目标检测系统<br>
-[Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br>
 
 
 # YOLO + CrowdHuman
