@@ -38,8 +38,7 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 | Register number | Full name of software | 基于via的课堂学生行为数据标注与yolov7目标检测系统 |
 | :----: | :----: |  :----: | 
 | 2023SR0518754 | 基于via的课堂学生行为数据标注与yolov7目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br> |
-| 2023SR0645718 | 
-基于via的课堂学生行为数据标注与yolov7目标检测与自动标注系统 | [Baidu Netdisk](https://pan.baidu.com/s/1w7SxsM5qrRCU8vrR4lkRMA?pwd=ssda)  extraction code: ssda  |
+| 2023SR0645718 | 基于via的课堂学生行为数据标注与yolov7目标检测与自动标注系统 | [Baidu Netdisk](https://pan.baidu.com/s/1w7SxsM5qrRCU8vrR4lkRMA?pwd=ssda)  extraction code: ssda  |
 | 2023SR1443796 | 基于改进的YOLO的学生课堂数据自动标注与目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1Z7SRoTy3DGI2TqU6xcqUFA?pwd=jluk )  extraction code: jluk |
 
 # YOLO + CrowdHuman
