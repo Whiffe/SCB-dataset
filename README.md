@@ -30,8 +30,17 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 # Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
-# News
+# Papers and Software copyright
+## Papers
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
+
+## Software copyright
+
+登记号: 2023SR0518754计算机软件著作权登记公告<br>
+软件全称: 基于via的课堂学生行为数据标注与yolov7目标检测系统<br>
+链接：[https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) <br>
+提取码：fixx<br>
+
 
 # YOLO + CrowdHuman
 
