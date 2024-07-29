@@ -9,7 +9,7 @@ Student Classroom Behavior dataset
 | SCB-ST-Dataset4 <br/> Extending the Spatio-Temporal Behavior Dataset in Student Classroom Scenarios Through Image Dataset Method   | [SCB-ST-Dataset4 paper](https://arxiv.org/pdf/2310.16267.pdf)    | Using [yolo2ava] to generate      |...        | hand-raising, reading, writing |
 | SCB-dataset 5   |   We expect to release SCB5, a larger and more comprehensive dataset of teacher behavior, student behavior, and equipment detection, in early 2025.
 
-Please contact us if you would like to get advance data on the production process  |   This is an online document of our SCB5 behavior definition and annotation rules： [https://docs.qq.com/s/NWuVl5Jo94r49MJL8jiBxW](https://docs.qq.com/s/NWuVl5Jo94r49MJL8jiBxW)     |        |hand-raising, read, write, discuss, talk, bow the head, turn the head, guide, answer, On-stage interaction, blackboard-writing, blackboard-writing, stand, teacher |
+Please contact us if you would like to get advance data on the production process  |       |        |hand-raising, read, write, discuss, talk, bow the head, turn the head, guide, answer, On-stage interaction, blackboard-writing, blackboard-writing, stand, teacher |
 | ...   | ...        |...        |...        |...        |
 
 
