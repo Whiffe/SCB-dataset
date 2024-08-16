@@ -15,8 +15,6 @@ The SCB dataset was completed by a team I assembled, funded entirely by myself. 
 
 <img src="https://github.com/user-attachments/assets/52373cc3-ef1c-480b-b11f-ffd690d0919f" alt="IMG_9915" style="width: 50%;"/>
 
-![IMG_9915]()
-
 
 # STBD-08
 Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/icedle/CBPH-Net) authors for their contributions, here is the download link for the CBPH-Net contribution dataset STBD-08:
