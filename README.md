@@ -13,8 +13,9 @@ Student Classroom Behavior dataset
 
 The SCB dataset was completed by a team I assembled, funded entirely by myself.  Over the past three years, more than 100 annotators have been involved in various stages, including video collection, video frame selection, and behavior annotation.  The work is extensive and intricate, and we have meticulously screened every tag on each image to create a comprehensive and high-quality dataset.  Currently, due to the massive amount of annotation required and the fact that I resigned from my job to pursue a Ph.D., the annotation team is continuously consuming funds—all of which come out of my own pocket.  I am determined to see this project through, and when it is completed, I will release the dataset for free.  I hope to receive some tips from the online community to ease the financial burden of the data annotation process.  Here is my Alipay QR code for donations.
 
-<img src="https://github.com/user-attachments/assets/3e61ab69-8f46-47f7-a9f3-5443102f63ce" alt="IMG_9915" style="width: 50%;"/>
+<img src="https://github.com/user-attachments/assets/52373cc3-ef1c-480b-b11f-ffd690d0919f" alt="IMG_9915" style="width: 50%;"/>
 
+![IMG_9915]()
 
 
 # STBD-08
