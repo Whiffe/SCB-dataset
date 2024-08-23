@@ -10,12 +10,7 @@ Student Classroom Behavior dataset
 | SCB-dataset 5   |  |  We expect to release SCB5, a larger and more comprehensive dataset of teacher behavior, student behavior, and equipment detection, in early 2025. Please contact us if you would like to get advance data on the production process.    |  This is an online document of our SCB5 behavior definition and annotation rules： [link](https://docs.qq.com/s/NWuVl5Jo94r49MJL8jiBxW)    |hand-raising, read, write, discuss, clapping, leaning on the Desk,  yawn, Using the Phone, Using the Computer, talk, bow the head, turn the head, guide, answer, On-stage interaction, blackboard-writing, blackboard-writing, stand, teacher, Screen, Blackboard |
 | ...   | ...        |...        |...        |...        |
 
-
-The SCB dataset was completed by a team I assembled, funded entirely by myself.  Over the past three years, more than 100 annotators have been involved in various stages, including video collection, video frame selection, and behavior annotation.  The work is extensive and intricate, and we have meticulously screened every tag on each image to create a comprehensive and high-quality dataset.  Currently, due to the massive amount of annotation required and the fact that I resigned from my job to pursue a Ph.D., the annotation team is continuously consuming funds—all of which come out of my own pocket. I am determined to see this project through, and when it is completed, I will release the dataset for free.  <br> I hope to receive some tips from the online community to ease the financial burden of the data annotation process.  Here is my Alipay QR code for donations.
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/defd352b-6c87-40b9-a95f-a65da48715f2" alt="IMG_9915" style="width: 40%;"/>
-</div>
+![SCB-class1](https://github.com/user-attachments/assets/4cd3149b-068e-4e67-9754-97ad1d5dc484)
 
 
 # STBD-08
@@ -60,6 +55,12 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 | ...   | ...        |
 
 
+
+The SCB dataset was completed by a team I assembled, funded entirely by myself.  Over the past three years, more than 100 annotators have been involved in various stages, including video collection, video frame selection, and behavior annotation.  The work is extensive and intricate, and we have meticulously screened every tag on each image to create a comprehensive and high-quality dataset.  Currently, due to the massive amount of annotation required and the fact that I resigned from my job to pursue a Ph.D., the annotation team is continuously consuming funds—all of which come out of my own pocket. I am determined to see this project through, and when it is completed, I will release the dataset for free.  <br> I hope to receive some tips from the online community to ease the financial burden of the data annotation process.  Here is my Alipay QR code for donations.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/defd352b-6c87-40b9-a95f-a65da48715f2" alt="IMG_9915" style="width: 40%;"/>
+</div>
 
 
 
