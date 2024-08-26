@@ -12,7 +12,7 @@ Student Classroom Behavior dataset
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/249914e4-e3cc-44ac-b2de-7db4cb8ad9a9" alt="IMG_9915" style="width: 70%;"/>
-    <img src="https://github.com/user-attachments/assets/8df6c0ee-7b51-4a2e-8178-a66c177dfae5" style="width: 70%;"/>
+    <img src="https://github.com/user-attachments/assets/747c7560-93fe-4dc8-93bd-400b2afbb157" style="width: 70%;"/>
 </div>
 
 
