@@ -14,6 +14,7 @@ Student Classroom Behavior dataset
     <img src="https://github.com/user-attachments/assets/249914e4-e3cc-44ac-b2de-7db4cb8ad9a9" alt="IMG_9915" style="width: 70%;"/>
     <img src="https://github.com/user-attachments/assets/747c7560-93fe-4dc8-93bd-400b2afbb157" style="width: 70%;"/>
     <img src="https://github.com/user-attachments/assets/28883a8b-6dc9-4d76-8cce-87e17902c1e6" style="width: 70%;"/>
+    <img src="https://github.com/user-attachments/assets/7bb4d6a6-a61d-4300-8f00-7a7599013f3f" style="width: 70%;"/>
 </div>
 
 # STBD-08
