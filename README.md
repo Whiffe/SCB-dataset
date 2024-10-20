@@ -60,9 +60,7 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 | YOLOv7   | [Baidu Netdisk YOLOv7 CrowdHuman](https://pan.baidu.com/s/1GgRozEfoMwHAzkZL2l-RVQ?pwd=ll6n) extraction code: ll6n   <br>  [google drive YOLOv7 CrowdHuman](https://drive.google.com/drive/folders/1WaCZaO5yPwcECc3omY7MWsMAHXtrGtwx?usp=sharing)        |
 | ...   | ...        |
 
-
-
-The SCB dataset was completed by a team I assembled, funded entirely by myself.  Over the past three years, more than 100 annotators have been involved in various stages, including video collection, video frame selection, and behavior annotation.  The work is extensive and intricate, and we have meticulously screened every tag on each image to create a comprehensive and high-quality dataset.  Currently, due to the massive amount of annotation required and the fact that I resigned from my job to pursue a Ph.D., the annotation team is continuously consuming funds—all of which come out of my own pocket. I am determined to see this project through, and when it is completed, I will release the dataset for free.  <br> I hope to receive some tips from the online community to ease the financial burden of the data annotation process.  Here is my Alipay QR code for donations.
+Here is my Alipay QR code for donations.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/defd352b-6c87-40b9-a95f-a65da48715f2" alt="IMG_9915" style="width: 40%;"/>
