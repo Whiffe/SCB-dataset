@@ -66,5 +66,7 @@ Here is my Alipay QR code for donations.
     <img src="https://github.com/user-attachments/assets/defd352b-6c87-40b9-a95f-a65da48715f2" alt="IMG_9915" style="width: 40%;"/>
 </div>
 
+## Star History
 
+![Star History Chart](https://api.star-history.com/svg?repos=Whiffe/SCB-dataset&type=Date)
 
