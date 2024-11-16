@@ -8,7 +8,7 @@ sns.set(style="whitegrid")
 # 类别和对应的数量
 categories = [
     'hand-raising', 'read', 'write', 'screen', 'blackboard', 'discuss',
-    'guide', 'answer', 'on-stage-interaction', 'blackboard-writing', 'stand',
+    'guide', 'answer', 'stage interaction', 'board writing', 'stand',
     'teacher', 'bow-head', 'turn-head', 'talk'
 ]
 counts_train = [
