@@ -44,6 +44,8 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 ## Papers
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
 
+[杨帆,詹泽慧.基于RT-DETR-ASF的学生科学探究实验行为检测研究[J].数字教育,2024,10(05):14-23.](https://kns.cnki.net/kcms2/article/abstract?v=rA1vgdEcKkoiGhieg5QUmbkF5WDunld-UsOHqkrt07R6tenOh0LJESocodVOnQHJO94ehMya4NEBiscKNl2my1W5A9el-l42EV47hX_CzGaTQ_X1d8J8QRSBUukJpjCWxsZDyMuM-fUgKHu5sUNOc01k_YoQp68J&uniplatform=NZKPT)
+
 ## Software copyright
 | Register number | Full name of software | File link |
 | :----: | :----: |  :----: | 
