@@ -62,11 +62,7 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 | YOLOv7   | [Baidu Netdisk YOLOv7 CrowdHuman](https://pan.baidu.com/s/1GgRozEfoMwHAzkZL2l-RVQ?pwd=ll6n) extraction code: ll6n   <br>  [google drive YOLOv7 CrowdHuman](https://drive.google.com/drive/folders/1WaCZaO5yPwcECc3omY7MWsMAHXtrGtwx?usp=sharing)        |
 | ...   | ...        |
 
-Here is my Alipay QR code for donations.
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/defd352b-6c87-40b9-a95f-a65da48715f2" alt="IMG_9915" style="width: 40%;"/>
-</div>
 
 ## Star History
 
