@@ -3,8 +3,7 @@ Student Classroom Behavior dataset
 
 | Paper Name | Paper Link | Dataset Link | Trained weights Link | class |
 | :----: | :----: | :----: | :----: | :----: |
-| SCB-dataset 1 <br/> SCB-dataset: A Dataset for Detecting Student Classroom Behavior| [Paper](https://arxiv.org/pdf/2304.02488.pdf) | [Baidu Netdisk dataset](https://pan.baidu.com/s/1y3lGEYd-I-jxZKyAyw4MPw?pwd=zdbg) extraction code: ZDBG |  [Baidu Netdisk models](https://pan.baidu.com/s/1l2K66u0c0AAAu3NYMrhRpg?pwd=aq7v) extraction code: aq7v | hand-raising |
-| SCB-dataset 2 <br/> Student Classroom Behavior Detection based on Improved YOLOv7 | [Paper](https://arxiv.org/pdf/2306.03318.pdf) |[Baidu Netdisk dataset](https://pan.baidu.com/s/1Fv0LLrxQUG3M1qS1V0Bhkg?pwd=kjek) extraction code: kjek |[Baidu Netdisk models](https://pan.baidu.com/s/1SLxUQLETajguOZu5t3EbYg?pwd=epvk)  extraction code: epvk  | hand-raising, reading, writing |
+| Student Classroom Behavior Detection based on Improved YOLOv7 | [Paper](https://arxiv.org/pdf/2306.03318.pdf) |[Baidu Netdisk dataset](https://pan.baidu.com/s/1Fv0LLrxQUG3M1qS1V0Bhkg?pwd=kjek) extraction code: kjek |[Baidu Netdisk models](https://pan.baidu.com/s/1SLxUQLETajguOZu5t3EbYg?pwd=epvk)  extraction code: epvk  | hand-raising, reading, writing |
 | SCB-dataset 5   | [Paper](https://arxiv.org/abs/2304.02488) |  [Baidu Netdisk Dataset & Models](https://pan.baidu.com/s/1EFpWWUbq6C2dMU6MhF6e1Q?pwd=pur7) extraction code：pur7 <br> [google drive](https://drive.google.com/drive/folders/1owY_qxVOLHnDfFELqjAtAQ4q7RrdFMU6?usp=sharing) |  SCB5 is still undergoing updates, and we will update it again before mid-2025. |hand-raising, read, write, discuss, clapping, leaning on the Desk,  yawn, Using the Phone, Using the Computer, talk, bow the head, turn the head, guide, answer, On-stage interaction, blackboard-writing, blackboard-writing, stand, teacher, Screen, Blackboard |
 | ...   | ...        |...        |...        |...        |
 
