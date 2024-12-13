@@ -52,23 +52,23 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 [not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
 
 
-# Contact
+# 3 Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
-# Papers and Software copyright
-## Papers
+# 4 Papers and Software copyright
+## 4.1 Papers
 29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
 
 [杨帆,詹泽慧.基于RT-DETR-ASF的学生科学探究实验行为检测研究[J].数字教育,2024,10(05):14-23.](https://kns.cnki.net/kcms2/article/abstract?v=rA1vgdEcKkoiGhieg5QUmbkF5WDunld-UsOHqkrt07R6tenOh0LJESocodVOnQHJO94ehMya4NEBiscKNl2my1W5A9el-l42EV47hX_CzGaTQ_X1d8J8QRSBUukJpjCWxsZDyMuM-fUgKHu5sUNOc01k_YoQp68J&uniplatform=NZKPT)
 
-## Software copyright
+## 4.2 Software copyright
 | Register number | Full name of software | File link |
 | :----: | :----: |  :----: | 
 | 2023SR0518754 | 基于via的课堂学生行为数据标注与yolov7目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br> |
 | 2023SR0645718 | 基于via的课堂学生行为数据标注与yolov7目标检测与自动标注系统 | [Baidu Netdisk](https://pan.baidu.com/s/1w7SxsM5qrRCU8vrR4lkRMA?pwd=ssda)  extraction code: ssda  |
 | 2023SR1443796 | 基于改进的YOLO的学生课堂数据自动标注与目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1Z7SRoTy3DGI2TqU6xcqUFA?pwd=jluk )  extraction code: jluk |
 
-# YOLO + CrowdHuman
+# 5 YOLO + CrowdHuman
 
 | model | Trained weights Link |
 | :----: | :----: |
@@ -79,7 +79,7 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 
 
 
-## Star History
+# Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Whiffe/SCB-dataset&type=Date)
 
