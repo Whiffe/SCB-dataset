@@ -77,8 +77,28 @@ If you encounter any issues with the SCB Dataset or cooperation, please feel fre
 | YOLOv7   | [Baidu Netdisk YOLOv7 CrowdHuman](https://pan.baidu.com/s/1GgRozEfoMwHAzkZL2l-RVQ?pwd=ll6n) extraction code: ll6n   <br>  [google drive YOLOv7 CrowdHuman](https://drive.google.com/drive/folders/1WaCZaO5yPwcECc3omY7MWsMAHXtrGtwx?usp=sharing)        |
 | ...   | ...        |
 
+# 6 Commercial Use Restrictions
+Please note that this project (including but not limited to code, datasets, model weights, etc.) is intended for academic research, personal learning, and non-commercial use only. Any commercial use (including but not limited to commercial software development, commercial data services, commercial product development, etc.) is strictly prohibited without the explicit written permission of the copyright holder.
+Any unauthorized commercial use will constitute an infringement of the copyright holder's rights, and the copyright holder reserves the right to pursue legal action.
+If you have a need for commercial use, please contact the copyright holder for authorization through the following means:
+- **Contact Email**: winston@yf.com
+The copyright holder will decide whether to grant commercial use permissions based on the specific circumstances and may require the signing of a corresponding authorization agreement.
 
+# 7 Copyright Statement
+All content of this project, including but not limited to code, datasets, model weights, documents, etc., is protected by copyright. The copyright holder reserves all rights.
+Without authorization, no individual or organization is permitted to copy, distribute, modify, or otherwise use the content of this project unless explicitly granted permission by the copyright holder.
+Thank you for respecting and supporting the rights of the copyright holder.
+# Citation
+Please cite the following paper if you use our dataset.
 
+```BibTeX
+@article{yang2023scb,
+  title={SCB-dataset: A dataset for detecting student classroom behavior},
+  author={Yang, Fan},
+  journal={arXiv preprint arXiv:2304.02488},
+  year={2023}
+}
+```
 # Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Whiffe/SCB-dataset&type=Date)
