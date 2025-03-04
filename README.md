@@ -99,6 +99,14 @@ Please cite the following paper if you use our dataset.
   year={2023}
 }
 ```
+
+# Acknowledgements
+
+For the development of this dataset, we would like to thank the following individuals, companies and universities for their support: 
+ELEMENT TECH（成都元素科技有限公司 [https://www.elementech.net/](https://www.elementech.net/)）, SICHUAN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Wang Wengang（四川科技职业技术学院 王文刚）, Urban Vocational College Of Sichuan, Li Jianlong（四川城市职业学院 李健龙）, Chengdu Neusoft University（成都东软学院）, Sichuan Normal University（四川师范大学）, Beijing Normal University（北京师范大学）
+
+
+
 # Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Whiffe/SCB-dataset&type=Date)
