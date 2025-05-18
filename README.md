@@ -35,6 +35,8 @@ Through online search, we found that the STBD-08 dataset is completed based on t
 
 However, when we cleaned the STBD-08 dataset, we found that there are still many problematic data in it, such as non-standard bounding boxes (bbox) and some class labeling errors.
 
+In other words, the author of STBD-08 has not made the dataset they created public, and only the original dataset purchased online is disclosed.
+
 |       | Train    | Val      | Total     |
 |-------|----------|----------|-----------|
 | Writing | 57,164   | 15,298   | 72,462    |
