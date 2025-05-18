@@ -24,7 +24,30 @@ Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/i
 | :----: | :----: | :----: | 
 | CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios | https://ieeexplore.ieee.org/document/10185142 or https://docs.qq.com/pdf/DWFpWbWhnaHpaRm9x | [Baidu Netdisk dataset](https://pan.baidu.com/s/1AcFYPBIHoFSsVdzzeIohUw?pwd=6tvu) extraction code: 6tvu | 
 
-However, when we cleaned the STBD-08, we found that there were still many problem data in the STBD-08, such as the non-standard bbox, and some class labeling errors.
+
+BiTNet: A lightweight object detection network for real-time classroom behavior recognition with transformer and bi-directional pyramid network
+
+CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios
+
+The STBD-08 paper claims that the dataset includes 4432 images and 151,574 annotations. Nevertheless, when we calculated the data provided by the author, we discovered that the actual quantities are much larger than these figures. Our statistics indicate that the dataset has 8884 images (with 7052 in the training set and 1,832 in the validation set) and 267,888 annotations (including 212,728 in the training set and 55,160 in the validation set).
+
+Through online search, we found that the STBD-08 dataset is completed based on the dataset publicly [sale online](https://mbd.pub/o/bread/ZZiTl5lw) (the dataset also has 8,884 pieces), and the data volume is far lower than that of the dataset publicly sold online.
+
+However, when we cleaned the STBD-08 dataset, we found that there are still many problematic data in it, such as non-standard bounding boxes (bbox) and some class labeling errors.
+
+|       | Train    | Val      | Total     |
+|-------|----------|----------|-----------|
+| Writing | 57,164   | 15,298   | 72,462    |
+| Reading | 46,872   | 12,060   | 58,932    |
+| Listening | 93,509   | 24,019   | 117,528   |
+| Turning around | 4,314    | 1,025    | 5,339     |
+| Raising hand | 3,336    | 847      | 4,183     |
+| Standing | 3,287    | 814      | 4,101     |
+| Discussing | 3,710    | 953      | 4,663     |
+| Guiding | 536      | 144      | 680       |
+| Total   | 212,728  | 55,160   | 267,888   |
+
+
 
 ## 2.2 A dataset of student classroom behavior from a paid website
 
