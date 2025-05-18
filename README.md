@@ -29,7 +29,7 @@ BiTNet: A lightweight object detection network for real-time classroom behavior 
 
 CBPH-Net: A Small Object Detector for Behavior Recognition in Classroom Scenarios
 
-The STBD-08 paper claims that the dataset includes 4432 images and 151,574 annotations. Nevertheless, when we calculated the data provided by the author, we discovered that the actual quantities are much larger than these figures. Our statistics indicate that the dataset has 8884 images (with 7052 in the training set and 1,832 in the validation set) and 267,888 annotations (including 212,728 in the training set and 55,160 in the validation set).
+The STBD-08 paper claims that the dataset includes 4432 images and 151574 annotations. Nevertheless, when we calculated the data provided by the author, we discovered that the actual quantities are much larger than these figures. Our statistics indicate that the dataset has 8884 images (with 7052 in the training set and 1,832 in the validation set) and 267,888 annotations (including 212,728 in the training set and 55,160 in the validation set).
 
 Through online search, we found that the STBD-08 dataset is completed based on the dataset publicly [sale online](https://mbd.pub/o/bread/ZZiTl5lw) (the dataset also has 8,884 pieces), and the data volume is far lower than that of the dataset publicly sold online.
 
