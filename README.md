@@ -52,6 +52,27 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 [not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
 
 
+## 2.5 ClaBehavior
+
+The ClaBehavior paper\cite{ClaBehavior} mentions 1,342 images and 9,911 annotations. However, we actually found only 400 images and 8,083 annotations on [GitHub](https://github.com/CCNUZFW/Student-behavior-detection-system/tree/master/dataset/coco), including:  
+- **Train Dataset**: 360 images and 7,250 annotations  
+- **Val Dataset**: 40 images and 833 annotations  
+
+The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discuss.  
+
+
+|           | Train | Val   |
+|-----------|-------|-------|
+| Write     | 520   | 59    |
+| read      | 920   | 101   |
+| lookup    | 4045  | 435   |
+| turn_head | 915   | 96    |
+| raise_hand| 569   | 115   |
+| stand     | 58    | 8     |
+| discuss   | 223   | 19    |
+| **Total** | 7250  | 833   |
+
+
 # 3 Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
 
