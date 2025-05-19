@@ -85,17 +85,18 @@ The ClaBehavior paper\cite{ClaBehavior} mentions 1,342 images and 9,911 annotati
 
 The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discuss.  
 
+|         | Train | Val  | Total |
+|---------|-------|------|-------|
+| Write   | 520   | 59   | 579   |
+| read    | 920   | 101  | 1021  |
+| lookup  | 4045  | 435  | 4480  |
+| turn_head | 915  | 96   | 1011  |
+| raise_hand | 569  | 115  | 684   |
+| stand   | 58    | 8    | 66    |
+| discuss | 223   | 19   | 242   |
+|---------|-------|------|-------|
+| Total   | 7250  | 833  | 8083  |
 
-|           | Train | Val   |
-|-----------|-------|-------|
-| Write     | 520   | 59    |
-| read      | 920   | 101   |
-| lookup    | 4045  | 435   |
-| turn_head | 915   | 96    |
-| raise_hand| 569   | 115   |
-| stand     | 58    | 8     |
-| discuss   | 223   | 19    |
-| **Total** | 7250  | 833   |
 
 
 # 3 Contact
