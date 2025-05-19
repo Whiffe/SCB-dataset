@@ -94,7 +94,6 @@ The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discu
 | raise_hand | 569  | 115  | 684   |
 | stand   | 58    | 8    | 66    |
 | discuss | 223   | 19   | 242   |
-|---------|-------|------|-------|
 | Total   | 7250  | 833  | 8083  |
 
 
