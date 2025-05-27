@@ -79,7 +79,7 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 
 ## 2.5 ClaBehavior
 
-The ClaBehavior paper\cite{ClaBehavior} mentions 1,342 images and 9,911 annotations. However, we actually found only 400 images and 8,083 annotations on [GitHub](https://github.com/CCNUZFW/Student-behavior-detection-system/tree/master/dataset/coco), including:  
+The ClaBehavior [paper](https://www.mdpi.com/2079-8954/11/7/372) mentions 1,342 images and 9,911 annotations. However, we actually found only 400 images and 8,083 annotations on [GitHub](https://github.com/CCNUZFW/Student-behavior-detection-system/tree/master/dataset/coco), including:  
 - **Train Dataset**: 360 images and 7,250 annotations  
 - **Val Dataset**: 40 images and 833 annotations  
 
@@ -96,7 +96,8 @@ The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discu
 | discuss | 223   | 19   | 242   |
 | Total   | 7250  | 833  | 8083  |
 
-
+## 2.6 SCBehavior
+The SCBehavior [paper](https://www.mdpi.com/2076-3417/14/18/8357) mentions that there are 1346 images. However, when we checked the author's [GitHub](https://github.com/CCNUZFW/SCBehavior), we found only 400 damaged images that cannot be viewed (360 in the Train Dataset and 40 in the Val Dataset).
 
 # 3 Contact
 If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
