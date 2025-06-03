@@ -170,14 +170,9 @@ Since the data itself is plagiarized and not original, this paper will not condu
 
 | Paper  | Class | Static  | Note |
 |---------|-------|------|-------|
-| [YOLO-CBD: Classroom Behavior Detection Method Based on Behavior Feature Extraction and Aggregation](https://www.mdpi.com/1424-8220/25/10/3073)   | focus and distract   | 1000 images | "Focus and distract" is a very special class, which is quite interesting. However, as a relatively subjective class, it should be rather difficult to implement in actual annotation.    |
-| read    | 920   | 101  | 1021  |
-| lookup  | 4045  | 435  | 4480  |
-| turn_head | 915  | 96   | 1011  |
-| raise_hand | 569  | 115  | 684   |
-| stand   | 58    | 8    | 66    |
-| discuss | 223   | 19   | 242   |
-| Total   | 7250  | 833  | 8083  |
+| [YOLO-CBD: Classroom Behavior Detection Method Based on Behavior Feature Extraction and Aggregation](https://www.mdpi.com/1424-8220/25/10/3073)   | focus and distract   | 1000 images | "Focus and distract" is a very special class, which is quite interesting. However, as a relatively subjective class, it should be rather difficult to implement in actual annotation. |
+| | | | |
+| | | | |
 
 
 
