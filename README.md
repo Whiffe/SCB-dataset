@@ -16,8 +16,64 @@ Student Classroom Behavior dataset
 
 </div>
 
-# 2 Open Source Dataset
-## 2.1 STBD-08
+
+# 2 Contact
+If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
+
+# 3 Papers and Software copyright
+## 3.1 Papers
+29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
+
+[杨帆,詹泽慧.基于RT-DETR-ASF的学生科学探究实验行为检测研究[J].数字教育,2024,10(05):14-23.](https://kns.cnki.net/kcms2/article/abstract?v=rA1vgdEcKkoiGhieg5QUmbkF5WDunld-UsOHqkrt07R6tenOh0LJESocodVOnQHJO94ehMya4NEBiscKNl2my1W5A9el-l42EV47hX_CzGaTQ_X1d8J8QRSBUukJpjCWxsZDyMuM-fUgKHu5sUNOc01k_YoQp68J&uniplatform=NZKPT)
+
+## 3.2 Software copyright
+| Register number | Full name of software | File link |
+| :----: | :----: |  :----: | 
+| 2023SR0518754 | 基于via的课堂学生行为数据标注与yolov7目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br> |
+| 2023SR0645718 | 基于via的课堂学生行为数据标注与yolov7目标检测与自动标注系统 | [Baidu Netdisk](https://pan.baidu.com/s/1w7SxsM5qrRCU8vrR4lkRMA?pwd=ssda)  extraction code: ssda  |
+| 2023SR1443796 | 基于改进的YOLO的学生课堂数据自动标注与目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1Z7SRoTy3DGI2TqU6xcqUFA?pwd=jluk )  extraction code: jluk |
+
+# 4 YOLO + CrowdHuman
+
+| model | Trained weights Link |
+| :----: | :----: |
+| YOLOv5 crowdhuman_vbody_yolov5m   | [Baidu Netdisk YOLOv5 crowdhuman_vbody_yolov5m](https://pan.baidu.com/s/1gDNWZZdl4T91hIqx_Rit4A?pwd=5qcv )  extraction code:  5qcv <br> [google drive YOLOv5 crowdhuman_vbody_yolov5m](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing)        |
+| YOLOv7x   | [Baidu Netdisk YOLOv7x CrowdHuman](https://pan.baidu.com/s/1YQZegrdADkiMu17KdSXulQ?pwd=ewop ) extraction code:  ewop <br>  [google drive YOLOv7x CrowdHuman](https://drive.google.com/drive/folders/1FYd8xiQvmTfKcpgl_2fedawuor61snjo?usp=sharing)    |
+| YOLOv7   | [Baidu Netdisk YOLOv7 CrowdHuman](https://pan.baidu.com/s/1GgRozEfoMwHAzkZL2l-RVQ?pwd=ll6n) extraction code: ll6n   <br>  [google drive YOLOv7 CrowdHuman](https://drive.google.com/drive/folders/1WaCZaO5yPwcECc3omY7MWsMAHXtrGtwx?usp=sharing)        |
+| ...   | ...        |
+
+# 5 Commercial Use Restrictions
+Please note that this project (including but not limited to code, datasets, model weights, etc.) is intended for academic research, personal learning, and non-commercial use only. Any commercial use (including but not limited to commercial software development, commercial data services, commercial product development, etc.) is strictly prohibited without the explicit written permission of the copyright holder.
+Any unauthorized commercial use will constitute an infringement of the copyright holder's rights, and the copyright holder reserves the right to pursue legal action.
+If you have a need for commercial use, please contact the copyright holder for authorization through the following means:
+- **Contact Email**: winston@yf.com
+The copyright holder will decide whether to grant commercial use permissions based on the specific circumstances and may require the signing of a corresponding authorization agreement.
+
+# 6 Copyright Statement
+All content of this project, including but not limited to code, datasets, model weights, documents, etc., is protected by copyright. The copyright holder reserves all rights.
+Without authorization, no individual or organization is permitted to copy, distribute, modify, or otherwise use the content of this project unless explicitly granted permission by the copyright holder.
+Thank you for respecting and supporting the rights of the copyright holder.
+# Citation
+Please cite the following paper if you use our dataset.
+
+```BibTeX
+@article{yang2023scb,
+  title={SCB-dataset: A dataset for detecting student classroom behavior},
+  author={Yang, Fan},
+  journal={arXiv preprint arXiv:2304.02488},
+  year={2023}
+}
+```
+
+# 7 Acknowledgements
+
+For the development of this dataset, we would like to thank the following individuals, companies and universities for their support: 
+
+ELEMENT TECH（成都元素科技有限公司 [https://www.elementech.net/](https://www.elementech.net/)）, SICHUAN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Wang Wengang（四川科技职业技术学院 王文刚）, Urban Vocational College Of Sichuan, Li Jianlong（四川城市职业学院 李健龙）, Chengdu Neusoft University（成都东软学院）, Sichuan Normal University（四川师范大学）, Beijing Normal University（北京师范大学）
+
+
+# 8 Open Source Dataset
+## 8.1 STBD-08
 Thanks to the CBPH-Net [https://github.com/icedle/CBPH-Net](https://github.com/icedle/CBPH-Net) authors for their contributions, here is the download link for the CBPH-Net contribution dataset STBD-08:
 
 | Paper Name | Paper Link | Dataset Link |
@@ -51,7 +107,7 @@ In other words, the author of STBD-08 has not made the dataset they created publ
 
 
 
-## 2.2 A dataset of student classroom behavior from a paid website
+## 8.2 A dataset of student classroom behavior from a paid website
 
 This dataset is highly similar to STBD-08, mainly in that the images are highly similar and the quality of annotations is also poor
 
@@ -59,7 +115,7 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 | :----: | :----: | 
 | [https://mbd.pub/o/bread/ZZiTl5lw](https://mbd.pub/o/bread/ZZiTl5lw) | [Baidu Netdisk dataset](https://pan.baidu.com/s/1ZX_ZpLl-D-EsGlNpEqwTPg?pwd=fwie) extraction code: fwie | 
 
-## 2.3 universe roboflow website
+## 8.3 universe roboflow website
 | name | link |
 | :----: | :----: | 
 | classroom Computer Vision Project 1.6k | [link](https://universe.roboflow.com/reddy-projects-zulke/classroom-dodzk) | 
@@ -73,11 +129,11 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 
 
 
-## 2.4 BNU-Wu Student-Class-Behavior-Dataset
+## 8.4 BNU-Wu Student-Class-Behavior-Dataset
 [not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
 
 
-## 2.5 ClaBehavior
+## 8.5 ClaBehavior
 
 The ClaBehavior [paper](https://www.mdpi.com/2079-8954/11/7/372) mentions 1,342 images and 9,911 annotations. However, we actually found only 400 images and 8,083 annotations on [GitHub](https://github.com/CCNUZFW/Student-behavior-detection-system/tree/master/dataset/coco), including:  
 - **Train Dataset**: 360 images and 7,250 annotations  
@@ -96,10 +152,10 @@ The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discu
 | discuss | 223   | 19   | 242   |
 | Total   | 7250  | 833  | 8083  |
 
-## 2.6 SCBehavior
+## 8.6 SCBehavior
 The SCBehavior [paper](https://www.mdpi.com/2076-3417/14/18/8357) mentions that there are 1346 images. However, when we checked the author's [GitHub](https://github.com/CCNUZFW/SCBehavior), we found only 400 damaged images that cannot be viewed (360 in the Train Dataset and 40 in the Val Dataset).
 
-## 2.7 UK_Datasets
+## 8.7 UK_Datasets
 [UK_Datasets paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318817) is derived from the 2019 elementary school classroom videos collected from the National Education Resources Public Service Platform (NERPSP). 
 
 UK_Datasets extracted 8754 images by frame, and considering the detection needs in real classroom scenarios, it classified these images into eight categories of typical student behaviors: writing, reading, listening, raising hands, turning, standing, discussing, and accepting teacher instructions.
@@ -110,7 +166,7 @@ Unfortunately, when we downloaded the [UK\_Datasets](https://figshare.com/articl
 
 Since the data itself is plagiarized and not original, this paper will not conduct statistical analysis on its data.
 
-# 3 Close Source Dataset
+# 9 Close Source Dataset
 
 | Paper  | Class | Static  | Note |
 |---------|-------|------|-------|
@@ -122,60 +178,6 @@ Since the data itself is plagiarized and not original, this paper will not condu
 | stand   | 58    | 8    | 66    |
 | discuss | 223   | 19   | 242   |
 | Total   | 7250  | 833  | 8083  |
-
-# 4 Contact
-If you encounter any issues with the SCB Dataset or cooperation, please feel free to contact me via email at : winstonyf@qq.com
-
-# 5 Papers and Software copyright
-## 5.1 Papers
-29 October 2023, ICIG 2023 , [Student Classroom Behavior Detection Based on YOLOv7+BRA and Multi-model Fusion](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
-
-[杨帆,詹泽慧.基于RT-DETR-ASF的学生科学探究实验行为检测研究[J].数字教育,2024,10(05):14-23.](https://kns.cnki.net/kcms2/article/abstract?v=rA1vgdEcKkoiGhieg5QUmbkF5WDunld-UsOHqkrt07R6tenOh0LJESocodVOnQHJO94ehMya4NEBiscKNl2my1W5A9el-l42EV47hX_CzGaTQ_X1d8J8QRSBUukJpjCWxsZDyMuM-fUgKHu5sUNOc01k_YoQp68J&uniplatform=NZKPT)
-
-## 5.2 Software copyright
-| Register number | Full name of software | File link |
-| :----: | :----: |  :----: | 
-| 2023SR0518754 | 基于via的课堂学生行为数据标注与yolov7目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1lty_QWskD80Ta8PjhPWq6w?pwd=fixx) extraction code:  fixx <br> |
-| 2023SR0645718 | 基于via的课堂学生行为数据标注与yolov7目标检测与自动标注系统 | [Baidu Netdisk](https://pan.baidu.com/s/1w7SxsM5qrRCU8vrR4lkRMA?pwd=ssda)  extraction code: ssda  |
-| 2023SR1443796 | 基于改进的YOLO的学生课堂数据自动标注与目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1Z7SRoTy3DGI2TqU6xcqUFA?pwd=jluk )  extraction code: jluk |
-
-# 6 YOLO + CrowdHuman
-
-| model | Trained weights Link |
-| :----: | :----: |
-| YOLOv5 crowdhuman_vbody_yolov5m   | [Baidu Netdisk YOLOv5 crowdhuman_vbody_yolov5m](https://pan.baidu.com/s/1gDNWZZdl4T91hIqx_Rit4A?pwd=5qcv )  extraction code:  5qcv <br> [google drive YOLOv5 crowdhuman_vbody_yolov5m](https://drive.google.com/file/d/1VJtrdE85Wc4xSZXqAPUkWABLResUYG8V/view?usp=sharing)        |
-| YOLOv7x   | [Baidu Netdisk YOLOv7x CrowdHuman](https://pan.baidu.com/s/1YQZegrdADkiMu17KdSXulQ?pwd=ewop ) extraction code:  ewop <br>  [google drive YOLOv7x CrowdHuman](https://drive.google.com/drive/folders/1FYd8xiQvmTfKcpgl_2fedawuor61snjo?usp=sharing)    |
-| YOLOv7   | [Baidu Netdisk YOLOv7 CrowdHuman](https://pan.baidu.com/s/1GgRozEfoMwHAzkZL2l-RVQ?pwd=ll6n) extraction code: ll6n   <br>  [google drive YOLOv7 CrowdHuman](https://drive.google.com/drive/folders/1WaCZaO5yPwcECc3omY7MWsMAHXtrGtwx?usp=sharing)        |
-| ...   | ...        |
-
-# 7 Commercial Use Restrictions
-Please note that this project (including but not limited to code, datasets, model weights, etc.) is intended for academic research, personal learning, and non-commercial use only. Any commercial use (including but not limited to commercial software development, commercial data services, commercial product development, etc.) is strictly prohibited without the explicit written permission of the copyright holder.
-Any unauthorized commercial use will constitute an infringement of the copyright holder's rights, and the copyright holder reserves the right to pursue legal action.
-If you have a need for commercial use, please contact the copyright holder for authorization through the following means:
-- **Contact Email**: winston@yf.com
-The copyright holder will decide whether to grant commercial use permissions based on the specific circumstances and may require the signing of a corresponding authorization agreement.
-
-# 8 Copyright Statement
-All content of this project, including but not limited to code, datasets, model weights, documents, etc., is protected by copyright. The copyright holder reserves all rights.
-Without authorization, no individual or organization is permitted to copy, distribute, modify, or otherwise use the content of this project unless explicitly granted permission by the copyright holder.
-Thank you for respecting and supporting the rights of the copyright holder.
-# Citation
-Please cite the following paper if you use our dataset.
-
-```BibTeX
-@article{yang2023scb,
-  title={SCB-dataset: A dataset for detecting student classroom behavior},
-  author={Yang, Fan},
-  journal={arXiv preprint arXiv:2304.02488},
-  year={2023}
-}
-```
-
-# Acknowledgements
-
-For the development of this dataset, we would like to thank the following individuals, companies and universities for their support: 
-
-ELEMENT TECH（成都元素科技有限公司 [https://www.elementech.net/](https://www.elementech.net/)）, SICHUAN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Wang Wengang（四川科技职业技术学院 王文刚）, Urban Vocational College Of Sichuan, Li Jianlong（四川城市职业学院 李健龙）, Chengdu Neusoft University（成都东软学院）, Sichuan Normal University（四川师范大学）, Beijing Normal University（北京师范大学）
 
 
 
