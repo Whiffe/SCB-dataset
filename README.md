@@ -176,6 +176,7 @@ Since the data itself is plagiarized and not original, this paper will not condu
 | TCBDS -- Improving YOLOv7 for Large Target Classroom Behavior Recognition of Teachers in Smart Classroom Scenarios | facing the board (1410), facing the students(1415), writing on the board (1034), teaching while facing the board(869), teaching while facing the students (978), and interactive (1525).  6660 images ( 5328 train images and 1332 val images)  | Teacher Classroom Behavior Data Set (TCBDS)|
 | SCB-E -- SCB-LEDN: Lightweight and Efficient Object Detection Network for Student Classroom Behavior|raising hands, reading, sleeping, writing, and using a mobile phone, 6489 trainval images and 722 testing images||
 |RSCB-Dataset -- LDSBC: Lightweight Detection Network for Student Behavior in Classroom Scenario| raising hands, reading, writing, sleeping, and using mobile phones, 5221 images and 19000 instances of specific behaviors.||
+|SB dataset -- Multi-object behaviour recognition based on object detection cascaded image classification in classroom scenes |listening (9343), noting (7243), playing (5215), and grovelling (3504)||
 
 
 # Star History
