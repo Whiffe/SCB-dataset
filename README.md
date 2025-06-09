@@ -173,7 +173,7 @@ Since the data itself is plagiarized and not original, this paper will not condu
 | [YOLO-CBD: Classroom Behavior Detection Method Based on Behavior Feature Extraction and Aggregation](https://www.mdpi.com/1424-8220/25/10/3073)   | focus and distract, 1000 images | "Focus and distract" is a very special class, which is quite interesting. However, as a relatively subjective class, it should be rather difficult to implement in actual annotation. |
 | CB Dataset -- Object Detector Based on Center Keypoints for Behavior Recognition in Classroom Scenes |  listening (11934),noting (8727), playing (5649), and groveling (2977) | |
 |HRSW dataset -- PACR-DETR: A Real-Time End-to-End Object Detector for Behavior Recognition in Various Classroom Scenarios| rise hand, read, sleep, and write, 4881 images, 12631 annotations. | |
-| | | |
+| TCBDS -- Improving YOLOv7 for Large Target Classroom Behavior Recognition of Teachers in Smart Classroom Scenarios | facing the board (1410), facing the students(1415), writing on the board (1034), teaching while facing the board(869), teaching while facing the students (978), and interactive (1525).  6660 images ( 5328 train images and 1332 val images)  | Teacher Classroom Behavior Data Set (TCBDS)|
 
 
 
