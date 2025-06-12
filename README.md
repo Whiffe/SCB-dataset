@@ -127,13 +127,7 @@ This dataset is highly similar to STBD-08, mainly in that the images are highly 
 |  |  | 
 | ... | ... | 
 
-
-
-## 8.4 BNU-Wu Student-Class-Behavior-Dataset
-[not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
-
-
-## 8.5 ClaBehavior
+## 8.4 ClaBehavior
 
 The ClaBehavior [paper](https://www.mdpi.com/2079-8954/11/7/372) mentions 1,342 images and 9,911 annotations. However, we actually found only 400 images and 8,083 annotations on [GitHub](https://github.com/CCNUZFW/Student-behavior-detection-system/tree/master/dataset/coco), including:  
 - **Train Dataset**: 360 images and 7,250 annotations  
@@ -152,10 +146,10 @@ The categories include: Write, Read, Lookup, Turn_head, Raise_hand, Stand, Discu
 | discuss | 223   | 19   | 242   |
 | Total   | 7250  | 833  | 8083  |
 
-## 8.6 SCBehavior
+## 8.5 SCBehavior
 The SCBehavior [paper](https://www.mdpi.com/2076-3417/14/18/8357) mentions that there are 1346 images. However, when we checked the author's [GitHub](https://github.com/CCNUZFW/SCBehavior), we found only 400 damaged images that cannot be viewed (360 in the Train Dataset and 40 in the Val Dataset).
 
-## 8.7 UK_Datasets
+## 8.6 UK_Datasets
 [UK_Datasets paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318817) is derived from the 2019 elementary school classroom videos collected from the National Education Resources Public Service Platform (NERPSP). 
 
 UK_Datasets extracted 8754 images by frame, and considering the detection needs in real classroom scenarios, it classified these images into eight categories of typical student behaviors: writing, reading, listening, raising hands, turning, standing, discussing, and accepting teacher instructions.
@@ -177,6 +171,13 @@ Since the data itself is plagiarized and not original, this paper will not condu
 | SCB-E -- SCB-LEDN: Lightweight and Efficient Object Detection Network for Student Classroom Behavior|raising hands, reading, sleeping, writing, and using a mobile phone, 6489 trainval images and 722 testing images||
 |RSCB-Dataset -- LDSBC: Lightweight Detection Network for Student Behavior in Classroom Scenario| raising hands, reading, writing, sleeping, and using mobile phones, 5221 images and 19000 instances of specific behaviors.||
 |SB dataset -- Multi-object behaviour recognition based on object detection cascaded image classification in classroom scenes |listening (9343), noting (7243), playing (5215), and grovelling (3504)||
+|ActRec-Classroom -- Learning behavior analysis in classroom based on deep learning| listening carefully, hand raising to answer questions, participating in discussions, reading and note taking, 5126 images||
+|A large-scale dataset for student behavior -- Intelligent student behavior analysis system for real classrooms| hand-raising (70000), standing (20000), sleeping (3000), 29000 training images, 11000 validate images ||
+|BNU-LCSAD -- Student Class Behavior Dataset: a video dataset for recognizing, detecting, and captioning students’ behaviors in classroom scenes | listening carefully (984), taking notes (582), using mobile phones (545), yawning (520), eating or drinking (515), reading (365), discussing (265), looking around (252), using computers (168), sleeping or snoring (80), and raising hands (15) |
+
+
+## 8.4 BNU-Wu Student-Class-Behavior-Dataset
+[not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
 
 
 # Star History
