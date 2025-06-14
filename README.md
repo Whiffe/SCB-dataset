@@ -175,6 +175,7 @@ Since the data itself is plagiarized and not original, this paper will not condu
 |A large-scale dataset for student behavior -- Intelligent student behavior analysis system for real classrooms| hand-raising (70,000), standing (20,000), sleeping (3,000), 29000 training images, 11000 validate images ||
 |BNU-LCSAD -- Student Class Behavior Dataset: a video dataset for recognizing, detecting, and captioning students’ behaviors in classroom scenes | listening carefully (984), taking notes (582), using mobile phones (545), yawning (520), eating or drinking (515), reading (365), discussing (265), looking around (252), using computers (168), sleeping or snoring (80), and raising hands (15) |
 |Student Classroom Behavior Dataset -- Classroom learning status assessment based on deep learning| raising hands (10,000), bending over (10,00), walking back and forth(10,000), writing on the blackboard (10,000), looking up (10000), bowing their heads (10,000), standing (10,00), lying on their desks (1,000).||
+|Student behavior dataset -- Student behavior recognition for interaction detection in the classroom environment|look at phone, listen to, stand, sleep, sit, talk, and write, 20,409 frames|
 
 
 ## 8.4 BNU-Wu Student-Class-Behavior-Dataset
