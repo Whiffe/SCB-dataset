@@ -178,6 +178,7 @@ Since the data itself is plagiarized and not original, this paper will not condu
 |Student behavior dataset -- Student behavior recognition for interaction detection in the classroom environment|look at phone, listen to, stand, sleep, sit, talk, and write, 20,409 frames|
 |Student action dataset -- Real-Time Attention Monitoring System for Classroom: A Deep Learning Approach for Student’s Behavior Recognition| high and low attention, high: focused and raising hands, low: feeling bored, eating/drinking, laughing, reading, using a phone, distracted, and writing, 3,881 images | 
 |A large-scale student behavior dataset -- StuArt: Individualized Classroom Observation of Students with Automatic Behavior Recognition and Tracking|hand-raising(70k), standing(21k), sleeping(3k), yawning(3,216) and smiling(129k), techear(15k), 36k images||
+|Classroom behavior dataset -- BiTNet: A lightweight object detection network for real-time classroom behavior recognition with transformer and bi-directional pyramid network|writing, reading, listening, raising hand, turning around, standing, discussing, and guiding, 4432 images and 151574 annotation boxes||
 
 
 ## 8.4 BNU-Wu Student-Class-Behavior-Dataset
