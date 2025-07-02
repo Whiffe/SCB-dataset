@@ -160,6 +160,10 @@ Unfortunately, when we downloaded the [UK\_Datasets](https://figshare.com/articl
 
 Since the data itself is plagiarized and not original, this paper will not conduct statistical analysis on its data.
 
+
+## 8.7 BNU-Wu Student-Class-Behavior-Dataset
+[not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
+
 # 9 Close Source Dataset
 
 | Paper  | Class and Static  | 
@@ -182,8 +186,6 @@ Since the data itself is plagiarized and not original, this paper will not condu
 |Improved YOLOv8 algorithm for classroom student behavior detection|eating(1,200), raising hands(1,000), reading(1,000), sleeping on the desk(1,000), and writing(1,000), 5200 images|
 
 
-## 8.4 BNU-Wu Student-Class-Behavior-Dataset
-[not open source](https://github.com/BNU-Wu/Student-Class-Behavior-Dataset/tree/master)
 
 
 # Star History
