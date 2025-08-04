@@ -1,8 +1,0 @@
-train: /root/autodl-tmp/3.7k_HRW_yolo_dataset/images/train
-val: /root/autodl-tmp/3.7k_HRW_yolo_dataset/images/val
-
-# number of classes
-nc: 3
-
-# class names
-names: [ 'rise hand', 'read', 'write']

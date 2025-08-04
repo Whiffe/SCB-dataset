@@ -1,8 +1,0 @@
-train: /root/autodl-tmp/riseHand_Dataset/images/train
-val: /root/autodl-tmp/riseHand_Dataset/images/val
-
-# number of classes
-nc: 1
-
-# class names
-names: [ 'rise hand' ]
