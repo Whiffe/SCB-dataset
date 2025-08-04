@@ -1,11 +1,10 @@
 # 1 SCB-dataset
 Student Classroom Behavior dataset 
 
-| Paper Name | Paper Link | Dataset and Trained weights Link | class |
-| :----: | :----: | :----: | :----: |
-| Student Classroom Behavior Detection based on Improved YOLOv7 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4) |[Baidu Netdisk dataset](https://pan.baidu.com/s/1Fv0LLrxQUG3M1qS1V0Bhkg?pwd=kjek) extraction code: kjek <br> [Baidu Netdisk models](https://pan.baidu.com/s/1SLxUQLETajguOZu5t3EbYg?pwd=epvk)  extraction code: epvk  | hand-raising, reading, writing |
-| SCB-dataset  | [Paper](https://arxiv.org/abs/2304.02488) |  [Baidu Netdisk Dataset & Models](https://pan.baidu.com/s/1keysWqSPnVCftQqDogKb4w?pwd=SCB5) extraction code：SCB5 <br> [huggingface](https://huggingface.co/datasets/wintonYF/SCB-Dataset/tree/main) |  <img width="585" height="536" alt="image" src="https://github.com/user-attachments/assets/45862a01-4af4-42f7-a15a-32793236ce1a" /> |
-| ...   | ...        |...        |...        |...        |
+| Paper Name | Dataset and Trained weights Link | class |
+| :----: | :----: | :----: |
+| [Student Classroom Behavior Detection based on Improved YOLOv7](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4) (https://pan.baidu.com/s/1Fv0LLrxQUG3M1qS1V0Bhkg?pwd=kjek) extraction code: kjek <br> [Baidu Netdisk models](https://pan.baidu.com/s/1SLxUQLETajguOZu5t3EbYg?pwd=epvk)  extraction code: epvk  | hand-raising, reading, writing |
+| [SCB-dataset](https://arxiv.org/abs/2304.02488) |  [Baidu Netdisk Dataset & Models](https://pan.baidu.com/s/1keysWqSPnVCftQqDogKb4w?pwd=SCB5) extraction code：SCB5 <br> [huggingface](https://huggingface.co/datasets/wintonYF/SCB-Dataset/tree/main) |  <img width="585" height="536" alt="image" src="https://github.com/user-attachments/assets/45862a01-4af4-42f7-a15a-32793236ce1a" /> |
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/249914e4-e3cc-44ac-b2de-7db4cb8ad9a9" alt="IMG_9915" style="width: 70%;"/>
