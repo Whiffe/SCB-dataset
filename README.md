@@ -7,8 +7,9 @@ Student Classroom Behavior dataset
 | [SCB-dataset](https://arxiv.org/abs/2304.02488) |  [Baidu Netdisk Dataset & Models](https://pan.baidu.com/s/1keysWqSPnVCftQqDogKb4w?pwd=SCB5) extraction code：SCB5 <br> [huggingface](https://huggingface.co/datasets/wintonYF/SCB-Dataset/tree/main) |  <img width="585" height="536" alt="image" src="https://github.com/user-attachments/assets/45862a01-4af4-42f7-a15a-32793236ce1a" /> |
 
 
-This is the data of SCB-Dataset3, which includes university classroom data. However, we are remaking it because the previous data had issues such as insufficient quantity and single scenarios.
 [Baidu Netdisk Dataset & Models](https://pan.baidu.com/s/14L87G1ACF--vG7sNjKB77w?pwd=qg8k) extraction code：qg8k
+
+This is the data of SCB-Dataset3, which includes university classroom data. However, we are remaking it because the previous data had issues such as insufficient quantity and single scenarios.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/249914e4-e3cc-44ac-b2de-7db4cb8ad9a9" alt="IMG_9915" style="width: 70%;"/>
