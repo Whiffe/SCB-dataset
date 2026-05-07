@@ -70,6 +70,13 @@ Please cite the following paper if you use our dataset.
 | 2023SR1443796 | 基于改进的YOLO的学生课堂数据自动标注与目标检测系统 | [Baidu Netdisk](https://pan.baidu.com/s/1Z7SRoTy3DGI2TqU6xcqUFA?pwd=jluk )  extraction code: jluk |
 
 
+### 6.3 Patents
+
+| Publication/Authorization No. | Full name of patent | Application date | Status |
+| :----: | :---- | :----: | :----: |
+| CN119578958B | 基于计算机视觉与大语言模型的课堂分析方法及计算机装置 | October 2024 | Authorized |
+| CN120337145A | 基于大语言模型与多模态信息融合的课堂教学分析方法 | April 2025 | Published |
+
 # 7 Acknowledgements
 
 For the development of this dataset, we would like to thank the following individuals, companies and universities for their support: 
